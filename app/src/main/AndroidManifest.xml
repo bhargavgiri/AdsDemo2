@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAdsDemo">
-        <activity android:name=".InterstitialAds"></activity>
+        <activity android:name=".DemoActivity"></activity>
+        <activity android:name=".InterstitialAds" />
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
